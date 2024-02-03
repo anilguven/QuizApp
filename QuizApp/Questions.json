@@ -1,0 +1,202 @@
+[
+    {
+        "image_name": "chair",
+        "answer": "Chair",
+        "hint": "A place where you can sit."
+    },
+    {
+        "image_name": "dog",
+        "answer": "Dog",
+        "hint": "A loyal four-legged friend."
+    },
+    {
+        "image_name": "apple_fruit",
+        "answer": "Apple",
+        "hint": "A fruit that can be red or green."
+    },
+    {
+        "image_name": "car",
+        "answer": "Car",
+        "hint": "A vehicle that runs on roads."
+    },
+    {
+        "image_name": "book",
+        "answer": "Book",
+        "hint": "Filled with pages of knowledge."
+    },
+    {
+        "image_name": "umbrella",
+        "answer": "Umbrella",
+        "hint": "Protects you from the rain."
+    },
+    {
+        "image_name": "pencil",
+        "answer": "Pencil",
+        "hint": "Used for writing or drawing."
+    },
+    {
+        "image_name": "shoe",
+        "answer": "Shoe",
+        "hint": "Worn on the feet."
+    },
+    {
+        "image_name": "watch",
+        "answer": "Watch",
+        "hint": "Helps you keep track of time."
+    },
+    {
+        "image_name": "phone",
+        "answer": "Phone",
+        "hint": "A device to call and text."
+    },
+    {
+        "image_name": "hat",
+        "answer": "Hat",
+        "hint": "Worn on the head."
+    },
+    {
+        "image_name": "guitar",
+        "answer": "Guitar",
+        "hint": "A musical instrument with strings."
+    },
+    {
+        "image_name": "boat",
+        "answer": "Boat",
+        "hint": "Floats and travels on water."
+    },
+    {
+        "image_name": "flower",
+        "answer": "Flower",
+        "hint": "Beautiful and fragrant, grows in gardens."
+    },
+    {
+        "image_name": "fridge",
+        "answer": "Fridge",
+        "hint": "Preserves food and keeps it cold."
+    },
+    {
+        "image_name": "lamp",
+        "answer": "Lamp",
+        "hint": "Provides light in the dark."
+    },
+    {
+        "image_name": "plane",
+        "answer": "Plane",
+        "hint": "Flies in the sky."
+    },
+    {
+        "image_name": "bicycle",
+        "answer": "Bicycle",
+        "hint": "Has two wheels and pedaled by foot."
+    },
+    {
+        "image_name": "camera",
+        "answer": "Camera",
+        "hint": "Captures memories in pictures."
+    },
+    {
+        "image_name": "keyboard",
+        "answer": "Keyboard",
+        "hint": "Used to type on a computer."
+    },
+    {
+        "image_name": "tree",
+        "answer": "Tree",
+        "hint": "Provides shade and oxygen."
+    },
+    {
+        "image_name": "cat",
+        "answer": "Cat",
+        "hint": "A pet known for its independence."
+    },
+    {
+        "image_name": "computer",
+        "answer": "Computer",
+        "hint": "Used for work, play, and everything in between."
+    },
+    {
+        "image_name": "cup",
+        "answer": "Cup",
+        "hint": "Holds your morning coffee."
+    },
+    {
+        "image_name": "mouse",
+        "answer": "Mouse",
+        "hint": "A small device that controls the cursor."
+    },
+    {
+        "image_name": "bottle",
+        "answer": "Bottle",
+        "hint": "Contains liquids for drinking."
+    },
+    {
+        "image_name": "bag",
+        "answer": "Bag",
+        "hint": "Used to carry personal items."
+    },
+    {
+        "image_name": "ball",
+        "answer": "Ball",
+        "hint": "Round object used in many types of games."
+    },
+    {
+        "image_name": "glasses",
+        "answer": "Glasses",
+        "hint": "Worn to improve vision."
+    },
+    {
+        "image_name": "house",
+        "answer": "House",
+        "hint": "A place to call home."
+    },
+    {
+        "image_name": "clock",
+        "answer": "Clock",
+        "hint": "Tells the time of day."
+    },
+    {
+        "image_name": "sun",
+        "answer": "Sun",
+        "hint": "The star at the center of our solar system."
+    },
+    {
+        "image_name": "moon",
+        "answer": "Moon",
+        "hint": "Orbits the Earth and shines at night."
+    },
+    {
+        "image_name": "star",
+        "answer": "Star",
+        "hint": "Shines brightly in the night sky."
+    },
+    {
+        "image_name": "fish",
+        "answer": "Fish",
+        "hint": "Lives in water and breathes through gills."
+    },
+    {
+        "image_name": "bird",
+        "answer": "Bird",
+        "hint": "Flies in the sky and may sing songs."
+    },
+    {
+        "image_name": "cookie",
+        "answer": "Cookie",
+        "hint": "A sweet baked treat."
+    },
+    {
+        "image_name": "sandwich",
+        "answer": "Sandwich",
+        "hint": "A meal you can hold in your hands."
+    },
+    {
+        "image_name": "key",
+        "answer": "Key",
+        "hint": "Opens locks."
+    },
+    {
+        "image_name": "bookshelf",
+        "answer": "Bookshelf",
+        "hint": "Holds a collection of books."
+    }
+]
